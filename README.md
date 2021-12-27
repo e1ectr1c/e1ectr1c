@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @e1ectr1c
+- 👋 Hi, I’m Aman
 - 👀 I’m interested in Java/Node full stack development
 - 🌱 I’m currently learning the MERN stack
 - 💞️ I’m looking to collaborate on NodeJS or SpringBoot projects
